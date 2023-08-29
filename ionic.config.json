@@ -1,0 +1,11 @@
+{
+  "name": "mageias",
+  "app_id": "",
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/magentoAPI",
+      "proxyUrl": "http://magento.docker.local/rest/V1/"
+    }
+  ]
+}
